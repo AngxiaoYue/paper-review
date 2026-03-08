@@ -1,0 +1,17 @@
+{
+   "sources" : [
+      {
+         "usage" : "toplevel",
+         "filename" : "zatom_1.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figures/QM9_Molecules_Generated_Zatom..png"
+      }
+   ],
+   "spec_version" : 1,
+   "texlive_version" : "2025",
+   "process" : {
+      "compiler" : "pdflatex"
+   }
+}
